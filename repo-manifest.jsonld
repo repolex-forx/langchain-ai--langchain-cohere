@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/langchain-ai/langchain-cohere/commit/28e67ec8089c7523926465c720860b2aba5c9000",
       "git:hexsha": "28e67ec8089c7523926465c720860b2aba5c9000",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/langchain-ai/langchain-cohere/commit/a5372aebf43a18e1e0020f4cf96ad120beb4ec2e",
