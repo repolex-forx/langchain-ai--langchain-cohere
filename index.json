@@ -1,0 +1,11 @@
+{
+  "org": "langchain-ai",
+  "repo": "langchain-cohere",
+  "versions": [
+    {
+      "commit": "28e67ec8089c7523926465c720860b2aba5c9000",
+      "tag": "",
+      "parsed_at": "2026-11-08T00:49:34.278105+00:00"
+    }
+  ]
+}
